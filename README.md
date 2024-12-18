@@ -1,6 +1,6 @@
 # SQL50_Leetcode
+
 <!---LeetCode Topics Start-->
-# LeetCode Topics
 ## Database
 |  |
 | ------- |
