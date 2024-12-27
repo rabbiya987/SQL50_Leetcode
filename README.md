@@ -5,6 +5,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/rabbiya987/SQL50_Leetcode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/rabbiya987/SQL50_Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/rabbiya987/SQL50_Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/rabbiya987/SQL50_Leetcode/tree/master/1625-group-sold-products-by-the-date) |
